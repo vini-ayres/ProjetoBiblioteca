@@ -1,0 +1,7 @@
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\bin\Debug\5_Biblioteca.exe.config
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\bin\Debug\5_Biblioteca.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\bin\Debug\5_Biblioteca.pdb
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\obj\Debug\5_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\obj\Debug\5_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\obj\Debug\5_Biblioteca.exe
+C:\Users\laysa\Documents\ADS - 4º SEMESTRE\ED2\5_Biblioteca\obj\Debug\5_Biblioteca.pdb
